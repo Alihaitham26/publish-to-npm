@@ -1,6 +1,6 @@
 {
-  "name": "puplish-to-npm",
-  "version": "1.0.0",
+  "name": "publish-to-npm",
+  "version": "0.1.0",
   "description": "",
   "main": "index.js",
   "scripts": {
